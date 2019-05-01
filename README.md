@@ -2,4 +2,4 @@
 
 # Eleventy Netlify Site
 
-This uses Dan Urbanowicz's [Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplateEleventy) as a starting point.
+This uses Dan Urbanowicz's [Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) as a starting point.
